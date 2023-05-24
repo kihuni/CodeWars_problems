@@ -28,4 +28,4 @@ nb_year(1500000, 2.5, 10000, 2000000) -> 10
 
 ### Solution Explained
 
-To solve this, we will use a while loop  to iterate though the years and calculate the population growth until it reaches the desired value. [solution]()
+To solve this, we will use a while loop  to iterate though the years and calculate the population growth until it reaches the desired value. [solution](https://github.com/kihuni/CodeWars_problems/blob/main/Day3/day3.problem.py)
