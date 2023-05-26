@@ -23,4 +23,4 @@ In this example, the `number` function takes a list if integer pairs `bus_stops`
 
 It then iterates through each `stop` in the `bus_stops` list. For each stop, it extracts the number of people getting on and getting off the bus. Next subtracts the number getting off and adds the number if people getting on the`totalpassagers` count
 
-Finally, the function returns the `totalpassagers` count, ensuring it is non-negative using th `max` function to handle cases where the bus ends up empty.[solution]()
+Finally, the function returns the `totalpassagers` count, ensuring it is non-negative using th `max` function to handle cases where the bus ends up empty.  [solution](https://github.com/kihuni/CodeWars_problems/blob/main/Day4/day4.problem.py)
