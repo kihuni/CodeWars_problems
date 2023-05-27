@@ -16,6 +16,6 @@ You are required to complete the method/function so that it converts dash/unders
 The `to_camel_case` function takes a string `text` as input and returns the camel case version of the string.
 
 It first replace any dashes with undescores to ensure consistent splitting of words. it then splits the text into words using underscores the delimiter.
-The first word is added as is, while the subsequent words are capitalized.Finally, the words are joined together to form the camel case string. [solution]()
+The first word is added as is, while the subsequent words are capitalized.Finally, the words are joined together to form the camel case string. [solution](https://github.com/kihuni/CodeWars_problems/blob/main/Day5/day5.problem.py)
 
 
