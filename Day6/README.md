@@ -8,4 +8,4 @@ Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 
 ```
 
-This is how you would [implement it]()
+This is how you would [implement it](https://github.com/kihuni/CodeWars_problems/blob/main/Day6/problem6.py)
