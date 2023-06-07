@@ -9,4 +9,4 @@ accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
 accum("cwAt") -> "C-Ww-Aaa-Tttt"
 
 ``` 
-[code]()
+[code](https://github.com/kihuni/CodeWars_problems/blob/main/Day7/prob7.py)
