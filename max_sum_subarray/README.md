@@ -47,4 +47,4 @@ current_sum = max(0, 1 + 4) = 5
 max_sum = max(6, 5) = 6
 After iterating through the entire list, we return max_sum, which is 6. Therefore, the maximum sum subarray in the given list is
 ```
-[code]()
+[code](https://github.com/kihuni/CodeWars_problems/blob/main/max_sum_subarray/max_sum_array.py)
