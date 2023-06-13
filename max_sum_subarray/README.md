@@ -12,9 +12,9 @@ We initialize two variables: `max_sum` and `current_sum` to 0. These variables w
 We start iterating through the input list.for each number `num` in the list, we perform the following steps:
     We update the `current_sum` by adding the current number `num` to it. Howeever, if the `current_sum` becomes negative,we reset it to 0. We take the maximum between 0 and `current_sum + num` to reset `current_sum`
 
-    We update the `max_num` by taking the maximum between the current`max_num` and the updated`current_num`. This allows to keep track of the maximum sum found so far
+We update the `max_num` by taking the maximum between the current`max_num` and the updated`current_num`. This allows to keep track of the maximum sum found so far
     
-    After iterating the entire list we return `max_num`as the result
+After iterating the entire list we return `max_num`as the result
 
 # This is how it works
 ```
