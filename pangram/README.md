@@ -8,4 +8,4 @@ The function first creates a set called alphabet which contains all lowercase le
 It then converts the input sentence to lowercase using the lower() method and creates a set called letters containing all the unique lowercase letters present in the sentence.
 
 Finally, it checks if the alphabet set is a subset of the letters set using the issubset() method. If all the letters of the alphabet are present in the sentence, it returns True; otherwise, it returns False.
-[code]()
+[code](https://github.com/kihuni/CodeWars_problems/blob/main/pangram/pangram.py)
