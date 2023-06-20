@@ -13,4 +13,4 @@ If a string contains all repeating characters, it should return an empty string 
 The `for` loop iterates over each character `char` in the string `s`. From `char_counts` 'defaulting to 0 if character is not yet present', increments the count by 1, and assigns the update count back to `char_counts[char]`. This way, `char_counts` keeps track of the number of occurrences of each character in the string
 - Third, It iterates over each character `char` in the string `s` again, it checks if the count of the character `char` in `char_counts` is equal to 1. if so, it returns the character `char`.
 However, to maintain the original case of the character,it first checks if `char` is present in the original string `s`. if it is, it returns `char` as it is. Otherwise, it returns the uppercase version of `char` using the `upper()` method
-- Finally,If no non-repeating character is found in the string, the function returns an empty string "". [solution]()
+- Finally,If no non-repeating character is found in the string, the function returns an empty string "". [solution](https://github.com/kihuni/CodeWars_problems/blob/main/first_non_repeating_letter/first_non_repeate.py)
