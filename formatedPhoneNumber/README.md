@@ -6,4 +6,4 @@ You are required to write a function that accept an array of 10 integers (betwee
 ## Solution
 `create_phone_number` fuction takes an array of `n` as input, then checks if the length of the `n` if its not equal to 10. if its not it returns an error.
 
-Then, it formats the phone number by joining the elements of the array in the appropriate places. The resulting formatted phone number is then returned. [code]()
+Then, it formats the phone number by joining the elements of the array in the appropriate places. The resulting formatted phone number is then returned. [code](https://github.com/kihuni/CodeWars_problems/blob/main/formatedPhoneNumber/formatedPhnNum.py)
