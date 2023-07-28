@@ -1,7 +1,7 @@
 def cakes(recipe, available):
     num_cakes = [] # initilizes an empty list
     
-    # the for loop iterates over each ingridients
+    # the for loop iterates over each ingredients
     # and its amount in the recipe
     # and returns a list of tuples where
     # each tuple contains a key-value pair
@@ -13,10 +13,10 @@ def cakes(recipe, available):
         if ingredients in available:
             # This calculates how many whole cakes you could make with the available
             # amount of that ingredient
-            # it divides the amount available of available ingridients by
-            # the an=mount needed for one cake
+            # it divides the amount available of available ingredients by
+            # the amount needed for one cake
             num_cakes.append(available[ingredients] // amount)
-        # it returns 0 if ingridients is not available
+        # it returns 0 if ingredients is not available
         else:
             return 0
     # after checking all ingridients, the function returns the smallest number in the
