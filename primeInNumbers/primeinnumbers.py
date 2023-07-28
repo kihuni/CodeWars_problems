@@ -35,4 +35,4 @@ def prime_factor_decomposition(n):
 
 n = 86240
 result = prime_factor_decomposition(n)
-print(result)
+print(result) #(2**5)(5)(7**2)(11)

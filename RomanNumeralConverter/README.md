@@ -21,5 +21,3 @@ On the second function, the function takes a string `roman`as input and initiali
 Next, it initializes the variable `number` to 0 and sets `i` to 0 as the index to iterates over the `roman` string.
 
 Inside the loop, it checks if the current two characters in the roman string (starting from index i) form a valid Roman numeral symbol. If so, it adds the corresponding value to number and increments i by 2 to skip those two characters. Otherwise, it adds the value of the current character to number and increments i by 1.
-
-This process continues until all characters in the roman string are processed. Finally, it returns the resulting number as the integer value corresponding to the given Roman numeral.
