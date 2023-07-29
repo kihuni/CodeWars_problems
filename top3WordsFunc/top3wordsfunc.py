@@ -4,7 +4,7 @@ import heapq
 
 def top_3_words(text):
     # Use regex to split the text into words, handling apostrophes as specified
-    words = re.findall(r"[a-z']+", text.lower())
+    words = re.findall(r"\b[a-z]['a-z]*\b", text.lower())
 
     # Use collections.Counter to count occurrences of each word
     word_counts = collections.Counter(words)
