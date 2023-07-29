@@ -37,7 +37,7 @@ N/B Avoid sorting the entire array of unique words.
 
 Solution:
 
-In this [Example]() we are importing:
+In this [Example](https://github.com/kihuni/CodeWars_problems/blob/main/top3WordsFunc/top3wordsfunc.py) we are importing:
 ```
 re: for reqular expression operations; to split text into words according to rules
 
