@@ -6,7 +6,7 @@ According to Wikipedia, ROT13 is frequently used to obfuscate jokes on USENET.
 
 For this task you're only supposed to substitute characters. Not spaces, punctuation, numbers, etc.
 
-Test examples:
+Test examples
 
 ```
 "EBG13 rknzcyr." -> "ROT13 example."
