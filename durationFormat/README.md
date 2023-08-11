@@ -46,4 +46,4 @@ Calculate the number of minutes from this remainder and, finally, the left secon
 Build the result string following the formatting rules provided.
 
 ```
-[code]()
+[code](https://github.com/kihuni/CodeWars_problems/blob/main/durationFormat/formatDuration.py)
