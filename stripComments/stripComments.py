@@ -1,6 +1,7 @@
 def solution(string, markers):
     # split the string into lines
     lines = string.split('\n')
+    print(lines)
     
     # process each line
     for line in range(len(lines)):
