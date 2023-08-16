@@ -15,7 +15,7 @@ bananas
 The code would be called like so:
 
 result = solution("apples, pears # and bananas\ngrapes\nbananas !apples", ["#", "!"])
-# result should == "apples, pears\ngrapes\nbananas"
+`result should == "apples, pears\ngrapes\nbananas"`
 
 ## Solution
-To achieve this solution, you can split the input string by lines, and for each line, check for the existence of any of the comment markers. Once you encounter a comment marker, you can strip the remainder of the line. [Here's how you can implement this:]()
+To achieve this solution, you can split the input string by lines, and for each line, check for the existence of any of the comment markers. Once you encounter a comment marker, you can strip the remainder of the line. [Here's how you can implement this:](https://github.com/kihuni/CodeWars_problems/blob/main/stripComments/stripComments.py)
