@@ -17,4 +17,4 @@ To solve this problem, we will implement the following strategy:
 - Ensure there are no ships touching each other, either by edge or by corner.
 - Compare the counts of each ship type against the valid configuration (1 battleship, 2 cruisers, 3 destroyers, 4 submarines).
 
-Let's write the method:
+[solution](https://github.com/kihuni/CodeWars_problems/blob/main/battleshipValidation/battleshipValidation.py):
